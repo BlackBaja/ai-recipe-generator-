@@ -1,3 +1,12 @@
 {
     // Removed the experimental setting as it is unstable and subject to change or removal
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    "files.autoSave": "onFocusChange",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true
+    },
+    "editor.formatOnSave": true
 }
